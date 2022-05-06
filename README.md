@@ -10,3 +10,6 @@ Também foi utilizado as APIs:
 
     SwiperJS
     ScrollReveal
+
+Link para resultado do projeto:
+https://larissasantos07.github.io/doctorcare/
